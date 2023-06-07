@@ -10,5 +10,5 @@ This project is part of my personal training journey and follows the course [HTM
 
 The project follows the terms and conditions set by the Udemy course [HTML, CSS, & JavaScript - Build 20 Projects](https://www.udemy.com/course/html-css-js-projects/). Please refer to the course page for information regarding the license and usage rights.
 
-![Project Screenshot]( Screenshot 2023-06-07 at 14.26.08.png "Project Preview")
- Screenshot 2023-06-07 at 14.26.08
+<img src="screenshot.png">
+
